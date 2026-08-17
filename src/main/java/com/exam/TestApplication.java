@@ -8,7 +8,7 @@ public class TestApplication {
 	int a=29;
 	int b=44;
 	String c="bhaskar";
-
+    boolean d=true;
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
