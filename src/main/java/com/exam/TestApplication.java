@@ -10,10 +10,7 @@ public class TestApplication {
 	String c="bhaskar";
         boolean d=true;
         char f='a';
-
-
- 
-
+	    char z='x';
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
